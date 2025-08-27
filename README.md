@@ -56,8 +56,8 @@ This project demonstrates how to interface a **7-segment display** with an **Ard
 * Add **two 7-segment displays** to count 00–99.
 * Use a **shift register (74HC595)** to reduce pin usage.
 
-## LINK to project
-
-https://www.tinkercad.com/things/8XUKccrOeg0-ingenious-bruticus?sharecode=JRa3pDeBmMuh07Q-nmwCyS3YbUzefz3hY2SlM-6_WOU
 ---
 
+## LINK to project
+---
+https://www.tinkercad.com/things/8XUKccrOeg0-ingenious-bruticus?sharecode=JRa3pDeBmMuh07Q-nmwCyS3YbUzefz3hY2SlM-6_WOU
